@@ -6,9 +6,8 @@ First Codepath Lab, building a Flashcard app
 This is a rich and exquisite flashcard application that allows one to review any content using flashcards! FlashMe!
 
 ### App Walk-though
-[Imgur](https://i.imgur.com/jpG4zpX.gifv)
 
-<img src="https://i.imgur.com/jpG4zpX.gifv" width=200><br>
+<img src="https://i.imgur.com/jpG4zpX.gif" width=200><br>
 
 
 ## Required
